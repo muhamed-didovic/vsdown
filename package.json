@@ -1,0 +1,64 @@
+{
+  "name": "vsdown",
+  "version": "0.0.1",
+  "description": "Downloader and scraper for vueschool.io",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "bin": {
+    "vsdown": "lib/cli.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "download",
+    "downloader",
+    "vueschool-downloader",
+    "scraper",
+    "vueschool"
+  ],
+  "author": "Muhamed Didovic (github.com/muhamed-didovic)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/muhamed-didovic/vsdown.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@byungi/p-delay": "^0.2.0",
+    "@byungi/p-retry": "^0.2.2",
+    "@supercharge/promise-pool": "^2.1.0",
+    "axios": "^0.26.1",
+    "bluebird": "^3.7.2",
+    "chalk": "^5.0.1",
+    "cheerio": "^1.0.0-rc.10",
+    "colors": "^1.4.0",
+    "dreidels": "^0.5.2",
+    "fs-extra": "^10.1.0",
+    "fuse.js": "^6.5.3",
+    "is-valid-path": "^0.1.1",
+    "lodash": "^4.17.21",
+    "meow": "^9.0.0",
+    "node-html-markdown": "^1.2.0",
+    "ora": "^5.4.1",
+    "p-limit": "^3.1.0",
+    "prompts": "^2.4.2",
+    "remote-file-size": "^3.0.5",
+    "request": "^2.88.2",
+    "request-progress": "^3.0.0",
+    "requestretry": "^6.0.0",
+    "sanitize-filename": "^1.6.3",
+    "youtube-dl-wrap": "^2.1.1",
+    "ytdl-run": "^0.2.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "eslintConfig": {
+    "extends": "byungi"
+  }
+}
