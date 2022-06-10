@@ -1,6 +1,6 @@
 {
   "name": "vsdown",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Downloader and scraper for vueschool.io",
   "main": "index.js",
   "directories": {
@@ -31,7 +31,7 @@
   "dependencies": {
     "@byungi/p-delay": "^0.2.0",
     "@byungi/p-retry": "^0.2.2",
-    "@supercharge/promise-pool": "^2.2.0",
+    "@supercharge/promise-pool": "^2.3.0",
     "axios": "^0.27.2",
     "bluebird": "^3.7.2",
     "chalk": "^5.0.1",
