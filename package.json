@@ -1,6 +1,6 @@
 {
   "name": "vsdown",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Downloader and scraper for vueschool.io",
   "main": "index.js",
   "directories": {
@@ -16,10 +16,10 @@
     "test": "jest"
   },
   "keywords": [
-    "download",
-    "downloader",
+    "vueschool-download",
+    "vueschool-scraper",
     "vueschool-downloader",
-    "scraper",
+    "vueschool-scrape",
     "vueschool"
   ],
   "author": "Muhamed Didovic (github.com/muhamed-didovic)",
