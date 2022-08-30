@@ -1,6 +1,6 @@
 {
   "name": "vsdown",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Downloader and scraper for vueschool.io",
   "main": "index.js",
   "directories": {
@@ -20,6 +20,10 @@
     "vueschool-scraper",
     "vueschool-downloader",
     "vueschool-scrape",
+    "vueschool.io-download",
+    "vueschool.io-scraper",
+    "vueschool.io-downloader",
+    "vueschool.io-scrape",
     "vueschool"
   ],
   "author": "Muhamed Didovic (github.com/muhamed-didovic)",
@@ -31,7 +35,7 @@
   "dependencies": {
     "@byungi/p-delay": "^0.2.0",
     "@byungi/p-retry": "^0.2.2",
-    "@supercharge/promise-pool": "^2.3.0",
+    "@supercharge/promise-pool": "^2.3.2",
     "axios": "^0.27.2",
     "bluebird": "^3.7.2",
     "chalk": "^5.0.1",
@@ -56,9 +60,6 @@
     "ytdl-run": "^0.2.1"
   },
   "devDependencies": {
-    "jest": "^28.1.3"
-  },
-  "eslintConfig": {
-    "extends": "byungi"
+    "jest": "^29.0.1"
   }
 }
