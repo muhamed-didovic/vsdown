@@ -8,16 +8,20 @@
     "title": "Vue.js 3 Fundamentals with the Options API"
   },
   {
-    "value": "https://vueschool.io/courses/application-monitoring-in-vue-js-with-sentry",
-    "title": "Application Monitoring in Vue.js with Sentry"
-  },
-  {
     "value": "https://vueschool.io/courses/vue-router-4-for-everyone",
     "title": "Vue Router 4 for Everyone"
   },
   {
     "value": "https://vueschool.io/courses/vue-js-3-components-fundamentals",
     "title": "Vue.js 3 Components Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/application-monitoring-in-vue-js-with-sentry",
+    "title": "Application Monitoring in Vue.js with Sentry"
+  },
+  {
+    "value": "https://vueschool.io/courses/jamstack-the-complete-guide",
+    "title": "Jamstack The Complete Guide"
   },
   {
     "value": "https://vueschool.io/courses/reusable-vuejs-components-with-slots",
