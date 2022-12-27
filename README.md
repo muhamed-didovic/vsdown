@@ -6,7 +6,7 @@
 
 ## Requirement (ensure that you have it installed)
 - Node 18
-- youtube-dl (https://github.com/ytdl-org/youtube-dl)
+- yt-dlp (https://github.com/yt-dlp/yt-dlp)
 
 ## Install
 ```sh
