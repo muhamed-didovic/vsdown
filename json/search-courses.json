@@ -12,6 +12,14 @@
     "title": "Vue Router 4 for Everyone"
   },
   {
+    "value": "https://vueschool.io/courses/laravel-backends-for-vue-js-3",
+    "title": "Laravel Backends for Vue.js 3"
+  },
+  {
+    "value": "https://vueschool.io/courses/vuex-for-everyone",
+    "title": "Vuex for Everyone"
+  },
+  {
     "value": "https://vueschool.io/courses/vue-js-3-components-fundamentals",
     "title": "Vue.js 3 Components Fundamentals"
   },
@@ -36,12 +44,12 @@
     "title": "Vue Router for Everyone"
   },
   {
-    "value": "https://vueschool.io/courses/vuejs-components-fundamentals",
-    "title": "Vue.js Components Fundamentals"
-  },
-  {
     "value": "https://vueschool.io/courses/nuxtjs-fundamentals",
     "title": "Nuxt.js Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/vuejs-components-fundamentals",
+    "title": "Vue.js Components Fundamentals"
   },
   {
     "value": "https://vueschool.io/courses/javascript-testing-fundamentals",
@@ -50,9 +58,5 @@
   {
     "value": "https://vueschool.io/courses/vuejs-fundamentals",
     "title": "Vue.js Fundamentals"
-  },
-  {
-    "value": "https://vueschool.io/courses/vuex-for-everyone",
-    "title": "Vuex for Everyone"
   }
 ]
