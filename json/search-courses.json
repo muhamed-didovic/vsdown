@@ -1,35 +1,31 @@
 [
   {
-    "value": "https://vueschool.io/courses/vue-js-fundamentals-with-the-composition-api",
-    "title": "Vue.js 3 Fundamentals with the Composition API"
-  },
-  {
-    "value": "https://vueschool.io/courses/vuejs-3-fundamentals",
-    "title": "Vue.js 3 Fundamentals with the Options API"
-  },
-  {
-    "value": "https://vueschool.io/courses/vue-router-4-for-everyone",
-    "title": "Vue Router 4 for Everyone"
-  },
-  {
     "value": "https://vueschool.io/courses/laravel-backends-for-vue-js-3",
     "title": "Laravel Backends for Vue.js 3"
   },
   {
-    "value": "https://vueschool.io/courses/vuex-for-everyone",
-    "title": "Vuex for Everyone"
+    "value": "https://vueschool.io/courses/jamstack-the-complete-guide",
+    "title": "Jamstack The Complete Guide"
   },
   {
-    "value": "https://vueschool.io/courses/vue-js-3-components-fundamentals",
-    "title": "Vue.js 3 Components Fundamentals"
+    "value": "https://vueschool.io/courses/vue-js-fundamentals-with-the-composition-api",
+    "title": "Vue.js 3 Fundamentals with the Composition API"
   },
   {
     "value": "https://vueschool.io/courses/application-monitoring-in-vue-js-with-sentry",
     "title": "Application Monitoring in Vue.js with Sentry"
   },
   {
-    "value": "https://vueschool.io/courses/jamstack-the-complete-guide",
-    "title": "Jamstack The Complete Guide"
+    "value": "https://vueschool.io/courses/vue-js-3-components-fundamentals",
+    "title": "Vue.js 3 Components Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/vue-router-4-for-everyone",
+    "title": "Vue Router 4 for Everyone"
+  },
+  {
+    "value": "https://vueschool.io/courses/vuejs-3-fundamentals",
+    "title": "Vue.js 3 Fundamentals with the Options API"
   },
   {
     "value": "https://vueschool.io/courses/reusable-vuejs-components-with-slots",
@@ -44,12 +40,12 @@
     "title": "Vue Router for Everyone"
   },
   {
-    "value": "https://vueschool.io/courses/nuxtjs-fundamentals",
-    "title": "Nuxt.js Fundamentals"
-  },
-  {
     "value": "https://vueschool.io/courses/vuejs-components-fundamentals",
     "title": "Vue.js Components Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/nuxtjs-fundamentals",
+    "title": "Nuxt.js Fundamentals"
   },
   {
     "value": "https://vueschool.io/courses/javascript-testing-fundamentals",
@@ -58,5 +54,13 @@
   {
     "value": "https://vueschool.io/courses/vuejs-fundamentals",
     "title": "Vue.js Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/vuex-for-everyone",
+    "title": "Vuex for Everyone"
+  },
+  {
+    "value": "https://vueschool.io/courses/accessible-sites-with-vue-js-3-a11y",
+    "title": "Accessible Sites with Vue.js 3 (A11y)"
   }
 ]
