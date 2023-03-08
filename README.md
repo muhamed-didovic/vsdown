@@ -28,7 +28,7 @@ Options
     --email, -e         Your email.
     --password, -p      Your password.
     --directory, -d     Directory to save.
-    --file, -f          Location of the file where are the courses
+    --file, -f          Location of the file where are the courses (values: 'yes' or 'no'), default value is 'no'
     --overwrite, -o     Overwrite if resource exists (values: 'yes' or 'no'), default value is 'no'
     --markdown, -m      Save each lesson's description into md file (values: 'yes' or 'no'), default: yes
     --concurrency, -c
