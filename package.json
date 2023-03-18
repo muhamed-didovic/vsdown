@@ -1,6 +1,6 @@
 {
   "name": "vsdown",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Downloader and scraper for vueschool.io",
   "main": "index.js",
   "directories": {
