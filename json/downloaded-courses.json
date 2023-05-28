@@ -1,0 +1,32 @@
+[
+  {
+    "value": "https://vueschool.io/courses/vue-js-fundamentals-with-the-composition-api",
+    "url": "https://vueschool.io/courses/vue-js-fundamentals-with-the-composition-api",
+    "title": "Vue.js 3 Fundamentals with the Composition API"
+  },
+  {
+    "value": "https://vueschool.io/courses/vuejs-fundamentals",
+    "url": "https://vueschool.io/courses/vuejs-fundamentals",
+    "title": "Vue.js Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/vuejs-components-fundamentals",
+    "url": "https://vueschool.io/courses/vuejs-components-fundamentals",
+    "title": "Vue.js Components Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/vue-router-for-everyone",
+    "url": "https://vueschool.io/courses/vue-router-for-everyone",
+    "title": "Vue Router for Everyone"
+  },
+  {
+    "value": "https://vueschool.io/courses/javascript-testing-fundamentals",
+    "url": "https://vueschool.io/courses/javascript-testing-fundamentals",
+    "title": "JavaScript Testing Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/internationalization-with-vue-i18n",
+    "url": "https://vueschool.io/courses/internationalization-with-vue-i18n",
+    "title": "Internationalization with vue-i18n"
+  }
+]
