@@ -74,6 +74,22 @@
     "ytdl-run": "^0.2.1"
   },
   "devDependencies": {
+    "@types/bluebird": "^3.5.38",
+    "@types/colors": "^1.2.1",
+    "@types/debug": "^4.1.8",
+    "@types/fs-extra": "^11.0.1",
+    "@types/is-valid-path": "^0.1.0",
+    "@types/lodash": "^4.14.195",
+    "@types/lodash-es": "^4.17.7",
+    "@types/meow": "^6.0.0",
+    "@types/ora": "^3.2.0",
+    "@types/p-limit": "^2.2.0",
+    "@types/pdfkit": "^0.12.9",
+    "@types/prompts": "^2.4.4",
+    "@types/request": "^2.48.8",
+    "@types/requestretry": "^1.13.0",
+    "@types/url-file-size": "^1.0.0",
+    "@types/website-scraper": "^1.2.6",
     "jest": "^29.4.3"
   }
 }
