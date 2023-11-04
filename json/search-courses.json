@@ -1,23 +1,103 @@
 [
   {
+    "value": "https://vueschool.io/courses/the-vuejs-3-master-class",
+    "title": "The Vue.js 3 Masterclass"
+  },
+  {
     "value": "https://vueschool.io/courses/vue-js-fundamentals-with-the-composition-api",
     "title": "Vue.js 3 Fundamentals with the Composition API"
+  },
+  {
+    "value": "https://vueschool.io/courses/vue-js-transitions-and-animations",
+    "title": "Vue.js Transitions and Animations"
+  },
+  {
+    "value": "https://vueschool.io/courses/typescript-with-vue-js-3",
+    "title": "TypeScript with Vue.js 3"
+  },
+  {
+    "value": "https://vueschool.io/courses/nuxt-js-3-fundamentals",
+    "title": "Nuxt.js 3 Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/material-ui-with-vuetify-and-vue-js",
+    "title": "Material UI with Vuetify and Vue.js"
+  },
+  {
+    "value": "https://vueschool.io/courses/ai-chat-bot-with-vue-js-and-gpt-4",
+    "title": "AI Chat Bot with Vue.js and GPT-4"
+  },
+  {
+    "value": "https://vueschool.io/courses/build-a-drag-and-drop-trello-board",
+    "title": "Build a Drag-and-Drop Trello Board with Vue.js"
+  },
+  {
+    "value": "https://vueschool.io/courses/tailwind-css-fundamentals",
+    "title": "Tailwind CSS Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/content-sites-with-astro-and-vue-js",
+    "title": "Content Sites with Astro and Vue.js"
+  },
+  {
+    "value": "https://vueschool.io/courses/rapid-development-with-vite",
+    "title": "Rapid Development with Vite"
   },
   {
     "value": "https://vueschool.io/courses/vuejs-3-fundamentals",
     "title": "Vue.js 3 Fundamentals with the Options API"
   },
   {
+    "value": "https://vueschool.io/courses/rapid-testing-with-vitest",
+    "title": "Rapid Testing with Vitest"
+  },
+  {
+    "value": "https://vueschool.io/courses/pinia-the-enjoyable-vue-store",
+    "title": "Pinia The Enjoyable Vue Store"
+  },
+  {
+    "value": "https://vueschool.io/courses/typescript-fundamentals",
+    "title": "TypeScript Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/custom-vue-js-3-plugins",
+    "title": "Custom Vue.js 3 Plugins"
+  },
+  {
     "value": "https://vueschool.io/courses/vue-router-4-for-everyone",
     "title": "Vue Router 4 for Everyone"
+  },
+  {
+    "value": "https://vueschool.io/courses/vueuse-for-everyone",
+    "title": "VueUse for Everyone"
+  },
+  {
+    "value": "https://vueschool.io/courses/advanced-components-exposing-internal-state",
+    "title": "Advanced Components Exposing Internal State"
   },
   {
     "value": "https://vueschool.io/courses/charts-for-vue-js-3",
     "title": "Charts for Vue.js 3"
   },
   {
+    "value": "https://vueschool.io/courses/robust-vue-js-forms-with-formkit",
+    "title": "Robust Vue.js Forms with FormKit"
+  },
+  {
+    "value": "https://vueschool.io/courses/laravel-backends-for-vue-js-3",
+    "title": "Laravel Backends for Vue.js 3"
+  },
+  {
     "value": "https://vueschool.io/courses/vuex-for-everyone",
     "title": "Vuex for Everyone"
+  },
+  {
+    "value": "https://vueschool.io/courses/vue-3-single-file-components",
+    "title": "Vue 3 Single File Components"
+  },
+  {
+    "value": "https://vueschool.io/courses/vue-3-composition-api",
+    "title": "Vue 3 Composition API"
   },
   {
     "value": "https://vueschool.io/courses/vue-js-3-components-fundamentals",
@@ -28,20 +108,72 @@
     "title": "Jamstack The Complete Guide"
   },
   {
-    "value": "https://vueschool.io/courses/accessible-sites-with-vue-js-3-a11y",
-    "title": "Accessible Sites with Vue.js 3 (A11y)"
+    "value": "https://vueschool.io/courses/deskree-a-backend-development-engine-for-vue-js",
+    "title": "Deskree a Backend Development Engine for Vue.js"
   },
   {
     "value": "https://vueschool.io/courses/common-vue-js-mistakes-and-how-to-avoid-them",
     "title": "Common Vue.js Mistakes and How to Avoid Them"
   },
   {
+    "value": "https://vueschool.io/courses/modern-javascript-es6-and-beyond",
+    "title": "Modern JavaScript ES6 and beyond!"
+  },
+  {
+    "value": "https://vueschool.io/courses/whats-new-in-vue-3",
+    "title": "What is new in Vue 3"
+  },
+  {
     "value": "https://vueschool.io/courses/application-monitoring-in-vue-js-with-sentry",
     "title": "Application Monitoring in Vue.js with Sentry"
   },
   {
+    "value": "https://vueschool.io/courses/visual-studio-code-for-vue-js-developers",
+    "title": "Visual Studio Code for Vue.js Developers"
+  },
+  {
+    "value": "https://vueschool.io/courses/functional-components",
+    "title": "Functional Components"
+  },
+  {
+    "value": "https://vueschool.io/courses/vue-js-3-custom-directives",
+    "title": "Vue.js 3 Custom Directives"
+  },
+  {
+    "value": "https://vueschool.io/courses/learn-graphql-fundamentals",
+    "title": "GraphQL Fundamentals"
+  },
+  {
     "value": "https://vueschool.io/courses/reusable-vuejs-components-with-slots",
     "title": "Reusable Vue.js Components with Slots"
+  },
+  {
+    "value": "https://vueschool.io/courses/vue-apollo-graphql-fundamentals",
+    "title": "Vue-Apollo GraphQL Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/web-accessibility-fundamentals",
+    "title": "Web Accessibility Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/vuejs-single-file-components",
+    "title": "Single File Components"
+  },
+  {
+    "value": "https://vueschool.io/courses/storybook-with-vuejs",
+    "title": "Storybook with Vue.js"
+  },
+  {
+    "value": "https://vueschool.io/courses/static-site-generation-with-nuxtjs",
+    "title": "Static Site Generation with Nuxt.js"
+  },
+  {
+    "value": "https://vueschool.io/courses/async-data-with-nuxtjs",
+    "title": "Async Data with Nuxt.js"
+  },
+  {
+    "value": "https://vueschool.io/courses/test-with-jest",
+    "title": "Test with Jest"
   },
   {
     "value": "https://vueschool.io/courses/nuxtjs-fundamentals",
@@ -56,6 +188,10 @@
     "title": "JavaScript Testing Fundamentals"
   },
   {
+    "value": "https://vueschool.io/courses/learn-how-to-test-vuejs-components",
+    "title": "Testing Vue.js Components"
+  },
+  {
     "value": "https://vueschool.io/courses/vue-router-for-everyone",
     "title": "Vue Router for Everyone"
   },
@@ -64,7 +200,31 @@
     "title": "Vue.js Components Fundamentals"
   },
   {
+    "value": "https://vueschool.io/courses/custom-vuejs-directives",
+    "title": "Custom Vue Directives"
+  },
+  {
+    "value": "https://vueschool.io/courses/dynamic-forms-vuejs",
+    "title": "Dynamic Forms with Vue.js"
+  },
+  {
+    "value": "https://vueschool.io/courses/vuejs-form-validation",
+    "title": "Vue.js Form Validation"
+  },
+  {
     "value": "https://vueschool.io/courses/vuejs-fundamentals",
     "title": "Vue.js Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/vuejs-firebase-authentication",
+    "title": "Vue.js + Firebase Authentication"
+  },
+  {
+    "value": "https://vueschool.io/courses/vuejs-firebase-realtime-database",
+    "title": "Vue.js + Firebase Realtime Database"
+  },
+  {
+    "value": "https://vueschool.io/courses/the-vuejs-master-class",
+    "title": "The Vue.js Master Class"
   }
 ]
