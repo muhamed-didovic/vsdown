@@ -1,12 +1,11 @@
 {
   "name": "vsdown",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "Downloader and scraper for vueschool.io",
   "type": "module",
   "main": "index.js",
   "directories": {
-    "lib": "lib",
-    "json": "json"
+    "lib": "lib"
   },
   "files": [
     "lib",
