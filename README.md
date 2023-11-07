@@ -32,6 +32,9 @@ Options
     --file, -f          Location of the file where are the courses (values: 'yes' or 'no'), default value is 'no'
     --overwrite, -o     Overwrite if resource exists (values: 'yes' or 'no'), default value is 'no'
     --markdown, -m      Save each lesson's description into md file (values: 'yes' or 'no'), default: yes
+    --headless, -h      Enable headless (values: 'yes' or 'no'), default value is 'yes'
+    --html, -l          Enable html download (values: 'yes' or 'no'), default value is 'yes'
+    --free, -f          Download only free courses or all (values: 'yes' or 'no'), default value is 'yes'
     --concurrency, -c
 
 Examples
