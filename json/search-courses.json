@@ -12,6 +12,10 @@
     "title": "Vue.js Transitions and Animations"
   },
   {
+    "value": "https://vueschool.io/courses/a-wordle-on-test-driven-development-in-vue-js",
+    "title": "A “Wordle” on Test Driven Development in Vue.js"
+  },
+  {
     "value": "https://vueschool.io/courses/typescript-with-vue-js-3",
     "title": "TypeScript with Vue.js 3"
   },
@@ -22,6 +26,10 @@
   {
     "value": "https://vueschool.io/courses/material-ui-with-vuetify-and-vue-js",
     "title": "Material UI with Vuetify and Vue.js"
+  },
+  {
+    "value": "https://vueschool.io/courses/vue-component-fundamentals-with-the-composition-api",
+    "title": "Vue Component Fundamentals with the Composition API"
   },
   {
     "value": "https://vueschool.io/courses/ai-chat-bot-with-vue-js-and-gpt-4",
@@ -108,10 +116,6 @@
     "title": "Jamstack The Complete Guide"
   },
   {
-    "value": "https://vueschool.io/courses/deskree-a-backend-development-engine-for-vue-js",
-    "title": "Deskree a Backend Development Engine for Vue.js"
-  },
-  {
     "value": "https://vueschool.io/courses/common-vue-js-mistakes-and-how-to-avoid-them",
     "title": "Common Vue.js Mistakes and How to Avoid Them"
   },
@@ -188,12 +192,24 @@
     "title": "JavaScript Testing Fundamentals"
   },
   {
+    "value": "https://vueschool.io/courses/deskree-a-backend-development-engine-for-vue-js",
+    "title": "Deskree a Backend Development Engine for Vue.js"
+  },
+  {
+    "value": "https://vueschool.io/courses/nuxt-modules-the-ultimate-guide",
+    "title": "Nuxt Modules The Ultimate Guide"
+  },
+  {
     "value": "https://vueschool.io/courses/learn-how-to-test-vuejs-components",
     "title": "Testing Vue.js Components"
   },
   {
     "value": "https://vueschool.io/courses/vue-router-for-everyone",
     "title": "Vue Router for Everyone"
+  },
+  {
+    "value": "https://vueschool.io/courses/crafting-a-custom-component-library-with-vue-and-daisy-ui",
+    "title": "Crafting a Custom Component Library with Vue and Daisy UI"
   },
   {
     "value": "https://vueschool.io/courses/vuejs-components-fundamentals",
