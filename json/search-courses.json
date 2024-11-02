@@ -1,19 +1,47 @@
 [
   {
     "value": "https://vueschool.io/courses/the-vuejs-3-master-class",
-    "title": "The Vue.js 3 Masterclass"
+    "title": "Vue.js Master Class 2024 Edition"
+  },
+  {
+    "value": "https://vueschool.io/courses/the-complete-guide-to-data-fetching-in-nuxt",
+    "title": "The Complete Guide to Data Fetching in Nuxt"
   },
   {
     "value": "https://vueschool.io/courses/vue-js-fundamentals-with-the-composition-api",
     "title": "Vue.js 3 Fundamentals with the Composition API"
   },
   {
+    "value": "https://vueschool.io/courses/generating-fake-data-with-faker-js",
+    "title": "Generating Fake Data with Faker.js"
+  },
+  {
     "value": "https://vueschool.io/courses/vue-js-transitions-and-animations",
     "title": "Vue.js Transitions and Animations"
   },
   {
+    "value": "https://vueschool.io/courses/rich-text-editing-and-beyond-with-tinymce-and-vue",
+    "title": "Rich Text Editing and Beyond with TinyMCE and Vue"
+  },
+  {
+    "value": "https://vueschool.io/courses/vue-composables",
+    "title": "Vue Composables"
+  },
+  {
+    "value": "https://vueschool.io/courses/quasar-fundamentals",
+    "title": "Quasar Fundamentals"
+  },
+  {
+    "value": "https://vueschool.io/courses/real-time-data-with-laravel-reverb-and-vue-js",
+    "title": "Real-Time Data with Laravel Reverb and Vue.js"
+  },
+  {
     "value": "https://vueschool.io/courses/a-wordle-on-test-driven-development-in-vue-js",
     "title": "A “Wordle” on Test Driven Development in Vue.js"
+  },
+  {
+    "value": "https://vueschool.io/courses/enhanced-routing-with-unplugin-vue-router",
+    "title": "Enhanced Routing with UnPlugin Vue Router"
   },
   {
     "value": "https://vueschool.io/courses/typescript-with-vue-js-3",
@@ -184,16 +212,16 @@
     "title": "Nuxt.js Fundamentals"
   },
   {
+    "value": "https://vueschool.io/courses/the-vuejs-3-options-api-master-class",
+    "title": "Vue.js 3 Options API Masterclass"
+  },
+  {
     "value": "https://vueschool.io/courses/internationalization-with-vue-i18n",
     "title": "Internationalization with vue-i18n"
   },
   {
     "value": "https://vueschool.io/courses/javascript-testing-fundamentals",
     "title": "JavaScript Testing Fundamentals"
-  },
-  {
-    "value": "https://vueschool.io/courses/deskree-a-backend-development-engine-for-vue-js",
-    "title": "Deskree a Backend Development Engine for Vue.js"
   },
   {
     "value": "https://vueschool.io/courses/nuxt-modules-the-ultimate-guide",
@@ -240,7 +268,7 @@
     "title": "Vue.js + Firebase Realtime Database"
   },
   {
-    "value": "https://vueschool.io/courses/the-vuejs-master-class",
+    "value": "https://vueschool.io/courses/the-vuejs-2-master-class",
     "title": "The Vue.js Master Class"
   }
 ]
